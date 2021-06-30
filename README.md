@@ -1,4 +1,8 @@
 # calculadora-Js
+calculator created with the aim of putting into practice the knowledge in JS.
+Technologies used: HTML, CSS and JS vanilla
+
+
 calculadora creada con el objetivo de poner en practica los conocimientos en JS.
 Tecnologias utilizadas: HTML,CSS y JS vanilla
 ##
